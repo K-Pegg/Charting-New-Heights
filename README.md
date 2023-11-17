@@ -31,9 +31,14 @@ This bar chart shows the highest risk phase of flights. Cruise, approach, and ta
 
 ## Conclusion
 
-- For smaller airplanes, invest in Cessna or Piper
-- For larger airplanes, invest in Boeing
-- Focus on extra safety measures during cruise, approach, & takeoff
+Through a comprehensive analysis of aviation accident data spanning various makes, flight types, and phases, we have derived insights that can guide strategic decisions for our aviation endeavor. The data-driven findings provide valuable perspective on safety, risk factors and potential opportunities within the aviation industry.
+
+Cessna being a safe option for private travel as the planes are smaller and still the top choice as far as safety is concerned, with consideration for Boeing in the event that the company decides to go into larger aviation sector.
+
+Exploring the personal flights category our analysis concluded that this sector has a relatively low average of uninjured passengers in accidents with the greatest potential for mainstream use.
+
+Our findings underscore the importance of adopting a holistic appraoch to safety. By considering both aircraft makes and specific flight phases, we can tailor saftey measures and training programs to address the unique challenges associated with different scenarios.
+
 ## Next Steps
 - Find return on investment comparing smaller & larger airplanes for our company’s entrance into the market
 - Develop & implement extra training programs at high-risk flight phase points
