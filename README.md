@@ -1,4 +1,4 @@
-# ![Airplane Composite](http://url/to/img.png](https://github.com/K-Pegg/Airline_Data_Project/blob/main/Images/lax-takeoff-02.jpg)
+# ![Airplane Composite](https://github.com/K-Pegg/Airline_Data_Project/blob/main/Images/lax-takeoff-02.jpg)
 
 # Charting New Heights:
 Perspective on Aircraft Investment & Risk Mitigation
