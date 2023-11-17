@@ -15,9 +15,9 @@ Understanding: Accident data from the National Transportation Safety Board (NTSB
 
 Preparation: Our team begins the data cleaning process by investigating the values in the dataset, reviewing the data frame, and then we identify and focus on relevant elements. Then we remove the duplicates, normalize strings, and apply necessary filters to ensure consistency. The subsequent analyses are conducted on this refined dataset, enhancing data quality and facilitating meaningful insights.
 
-## Analysis and Results/Recommendations
+## Analysis and Results
 
-This project used data analysis. This showed an overview of trends of airplane accidents over time and injured vs. uninjured in accidents per make.
+This project used Tableau for data analysis. This showed an overview of trends of airplane accidents over time and injured vs. uninjured in accidents per make.
 ![bubble chart of percentages of uninjured compared to accidents per make](https://github.com/K-Pegg/Airline_Data_Project/blob/katie/Images/01_Uninjured_Accidents.png)
 This bubble chart shows the percentages of uninjured per make when involved in an accident. Cessna made up about 47% of the data, which points to Cessna being the safest if involved in an accident. Piper & Boeing are the next two largest values with 26% and 7% respectively.
 
